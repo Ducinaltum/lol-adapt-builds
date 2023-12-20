@@ -19,6 +19,7 @@
     "pantry": "Pantry",
     "purchasePan": "Purchase Pan",
     "autoSave": "...Auto Saving Complete",
+    "unsynthesizableFood": "You don’t know how to synthesize this kind of food…",
     "test_0": "Testing key test_0",
     "test_1": "Testing key test_1",
     "test_2": "Testing key test_2"
