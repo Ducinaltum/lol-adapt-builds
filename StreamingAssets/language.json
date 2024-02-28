@@ -125,6 +125,7 @@
         "resume_back_to_mm_key": "Resume/Back",
         "pause_key": "Pause",
         "restart_level_key": "Restart Level",
+        "caution_key":"Caution",
         "gt_adaptation_tree_key": "Adaptation Tree",
         "unsynthesizableFood": "You don’t know how to synthesize this kind of food yet…",
         "base": "Beginning",
@@ -135,7 +136,7 @@
         "cilia": "Cilia",
         "cilia_description": "Many cells have hair-like structures called cilia. These structures are used for movement and locomotion. Cilia are short and numerous hairs distributed around the cell.",
         "flagella": "Flagella",
-        "flagella_description": "Many cells have hair-like structures called flagella. These structures are used for movement and locomotion. Flagella are long hairs, less numerous, that propel the cells around the environment.",
+        "flagella_description": "Flagella are structures used for movement and locomotion. They are long hairs, less numerous, that propel the cells around the environment.",
         "crawling": "Crawling",
         "crawling_description": "This type of movement refers to the ability of a cell to move slowly and continuously, often through the extension and retraction of cellular projections, such as pseudopods or filopodia.",
         "bufferSkin": "Buffer Skin",
@@ -168,8 +169,7 @@
         "S4_ReproduceWindow_0": "Now it’s time to add the food synthesis adaptation to the list of your traits. At least, every advantage is important when you need to survive.",
         "S4_EatsNewNutrients": "Now you are able to synthesize new nutrients. It means you can evolve faster than your previous heritage.",
         "S5_ReproduceWindow_0": "The behavior of your population is a form of adaptation too. Maybe you can confront some hostile entities out there with the correct choice.",
-        "EOG_Congratulations": "Congratulations! Your population survived effectively throughout generations. But don't forget adaptation is a process without an end...",
-        "BonusLevel8_Congratulations": "Adaptation is a process that requires time and randomness. Of course, randomness is not represented here, but you did a great job choosing the correct adaptations to make your population survive. Congratulations! Now you can try another combination of traits",
+        "EOG_Congratulations": "Adaptation is a process that requires time and randomness. Of course, randomness is not represented here, but you did a great job choosing the correct adaptations to make your population survive. Congratulations! Now you can try another combination of traits",
         "FoodIstaken": "There is not enough food for you to fill your DNA bar… let’s try again!",
         "TryToPassAcid": "Acid dissolves your cells… maybe you should need more protection before trying going there again.",
         "AproachUneatableFood": "You don’t know how to synthesize this kind of food…",
@@ -184,7 +184,12 @@
         "LevelTitle_5": "Defend Yourself",
         "LevelTitle_6": "Bonus Level 1",
         "LevelTitle_7": "Bonus Level 2",
-        "LevelTitle_8": "Bonus Level 3"
+        "LevelTitle_8": "Bonus Level 3",
+
+        "level_individual_victory": "Well done! Let's go the next stage.",
+        "S2_warning_initpause": "Be careful with the acid bubbles, they can dissolve your cells!",
+        "S3_warning_initpause": "Now there are hostile forms that are dangerous for your population. Be aware of the warning signs and try to avoid them!"
+      
     },
     "es": {
         "new_game_key": "Nuevo Juego",
@@ -215,6 +220,7 @@
         "resume_back_to_mm_key": "Reanudar/Volver",
         "pause_key": "Pausa",
         "restart_level_key": "Reiniciar Nivel",
+        "caution_key":"Precaución",
         "gt_adaptation_tree_key": "Árbol de Adaptaciones",
         "unsynthesizableFood": "Todavía no sabes cómo sintetizar este tipo de comida...",
         "base": "Inicio",
@@ -225,7 +231,7 @@
         "cilia": "Cilias",
         "cilia_description": "Muchas células tienen estructuras parecidas a pelos llamadas cilias. Estas estructuras se utilizan para el movimiento. Las cilias son pelos cortos y numerosos distribuidos alrededor de la célula.",
         "flagella": "Flagelos",
-        "flagella_description": "Muchas células tienen estructuras parecidas a pelos llamadas flagelos. Estas estructuras se utilizan para el movimiento. Los flagelos son pelos largos que impulsan a las células alrededor del entorno.",
+        "flagella_description": "Los flagelos son estructuras que se utilizan para el movimiento. Son pelos largos que impulsan a las células alrededor del entorno.",
         "crawling": "Arrastre",
         "crawling_description": "Este tipo de movimiento se refiere a la capacidad de una célula para moverse lentamente y de manera continua, a menudo a través de la extensión y retracción de proyecciones celulares, como pseudópodos o filopodios.",
         "bufferSkin": "Amortiguación",
@@ -258,8 +264,7 @@
         "S4_ReproduceWindow_0": "Ahora es el momento de agregar la adaptación de síntesis de alimentos a la lista de adaptaciones. Cada ventaja es importante cuando necesitas sobrevivir.",
         "S4_EatsNewNutrients": "Ahora puedes sintetizar nuevos nutrientes. Significa que puedes evolucionar más rápido que tu herencia anterior.",
         "S5_ReproduceWindow_0": "El comportamiento de tu población es una forma de adaptación también. Puedes enfrentar ahora algunas entidades hostiles.",
-        "EOG_Congratulations": "¡Felicidades! Tu población sobrevivió eficazmente a lo largo de generaciones. Pero no olvides que la adaptación es un proceso que no termina...",
-        "BonusLevel8_Congratulations": "La adaptación es un proceso que requiere tiempo y azar. Por supuesto, el azar no está representada aquí, pero hiciste un gran trabajo eligiendo las adaptaciones correctas para hacer que tu población sobreviva. ¡Felicidades!.",
+        "EOG_Congratulations": "La adaptación es un proceso que requiere tiempo y azar. Por supuesto, el azar no está representada aquí, pero hiciste un gran trabajo eligiendo las adaptaciones correctas para hacer que tu población sobreviva. ¡Felicidades!.",
         "FoodIstaken": "No hay suficiente comida para llenar tu barra de ADN... intentémoslo de nuevo.",
         "TryToPassAcid": "El ácido disuelve tus células... tal vez necesitas más protección antes de entrar allí de nuevo.",
         "AproachUneatableFood": "No sabes cómo sintetizar este tipo de comida aun...",
@@ -274,6 +279,10 @@
         "LevelTitle_5": "Defiéndete",
         "LevelTitle_6": "Nivel de bonus 1",
         "LevelTitle_7": "Nivel de bonus 2",
-        "LevelTitle_8": "Nivel de bonus 3"
+        "LevelTitle_8": "Nivel de bonus 3",
+
+        "level_individual_victory": "Muy bien! Sigamos.",
+        "level2_warning_initpause": "Cuidado con las burbujas de ácido, ¡pueden disolver tus células!",
+        "level3_warning_initpause": "Ahora hay formas de vida hostiles que son peligrosas para tu población. Presta atención a los signos de peligro y trata de esquivar a los enemigos."     
     }
 }
