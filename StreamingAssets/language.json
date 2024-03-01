@@ -282,7 +282,7 @@
         "LevelTitle_8": "Nivel de bonus 3",
 
         "level_individual_victory": "Muy bien! Sigamos.",
-        "level2_warning_initpause": "Cuidado con las burbujas de ácido, ¡pueden disolver tus células!",
-        "level3_warning_initpause": "Ahora hay formas de vida hostiles que son peligrosas para tu población. Presta atención a los signos de peligro y trata de esquivar a los enemigos."     
+        "S2_warning_initpause": "Cuidado con las burbujas de ácido, ¡pueden disolver tus células!",
+        "S3_warning_initpause": "Ahora hay formas de vida hostiles que son peligrosas para tu población. Presta atención a los signos de peligro y trata de esquivar a los enemigos."     
     }
 }
